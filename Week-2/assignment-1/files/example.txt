@@ -1,0 +1,2 @@
+This is an example file for testing the file server.
+It contains some sample text to demonstrate file reading functionality.

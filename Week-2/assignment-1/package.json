@@ -1,0 +1,16 @@
+{
+  "name": "file-server",
+  "version": "1.0.0",
+  "description": "Express HTTP server for file handling",
+  "main": "fileServer.js",
+  "scripts": {
+    "test-fileServer": "node fileServer.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
